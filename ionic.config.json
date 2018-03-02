@@ -1,0 +1,8 @@
+{
+  "name": "appchevy",
+  "app_id": "4481ce84",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
